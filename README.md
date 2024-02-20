@@ -6,15 +6,15 @@ Hey there! I'm Jeff Voltaire, a passionate software engineer who loves building 
 
 ## Skills
 - Front-End
-- [![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,figma&theme=light)](https://skillicons.dev)
+  [![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,figma&theme=light)](https://skillicons.dev)
 - Back-End
-- [![Back-End](https://skillicons.dev/icons?i=py,django,flask,js,nodejs,express,fastapi,figma&theme=light)](https://skillicons.dev)
+  [![Back-End](https://skillicons.dev/icons?i=py,django,flask,js,nodejs,express,fastapi,figma&theme=light)](https://skillicons.dev)
 - CLoud
-- [![Cloud](https://skillicons.dev/icons?i=heroku,azure,aws,figma&theme=light)](https://skillicons.dev)
+  [![Cloud](https://skillicons.dev/icons?i=heroku,azure,aws,figma&theme=light)](https://skillicons.dev)
 - Database
-- [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma&theme=light)](https://skillicons.dev)
+  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma&theme=light)](https://skillicons.dev)
 - Tools
-- [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,express,fastapi,figma&theme=light)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,express,fastapi,figma&theme=light)](https://skillicons.dev)
 
 ## Projects
 
