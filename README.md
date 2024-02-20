@@ -4,6 +4,15 @@
 
 Hey there! I'm Jeff Voltaire, a passionate software engineer who loves building cool stuff with code.I'm always up for a coding adventure and .
 
+## Let's Connect
+
+I'm always open to new opportunities, collaborations, or just a friendly chat! You can reach out to me via:
+
+- Email: [softwaredev509@gmail.com](mailto:softwaredev509@gmail.com)
+- Twitter: [@voltairejeff898](https://twitter.com/voltairejeff898)
+
+Let's code something awesome together! 🚀✨
+
 ## Skills
 - Front-End <br>
   [![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,figma&theme=light)](https://skillicons.dev)
@@ -27,12 +36,3 @@ Here are some of the projects I've worked on:
 Feel free to check them out and give them a star if you like what you see!
 
 - Fun quote: Everyday It gets a little easier! but you gotta to do it everyday that's the hard part💻😴
-
-## Let's Connect
-
-I'm always open to new opportunities, collaborations, or just a friendly chat! You can reach out to me via:
-
-- Email: [softwaredev509@gmail.com](mailto:softwaredev509@gmail.com)
-- Twitter: [@voltairejeff898](https://twitter.com/voltairejeff898)
-
-Let's code something awesome together! 🚀✨
