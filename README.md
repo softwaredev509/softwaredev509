@@ -8,13 +8,13 @@ Hey there! I'm Jeff Voltaire, a passionate software engineer who loves building 
 - Front-End <br>
   [![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,figma&theme=light)](https://skillicons.dev)
 - Back-End <br>
-  [![Back-End](https://skillicons.dev/icons?i=py,django,flask,js,nodejs,express,fastapi,figma&theme=light)](https://skillicons.dev)
+  [![Back-End](https://skillicons.dev/icons?i=py,django,flask,js,nodejs,express,fastapi)](https://skillicons.dev)
 - CLoud <br>
-  [![Cloud](https://skillicons.dev/icons?i=heroku,azure,aws,figma&theme=light)](https://skillicons.dev)
+  [![Cloud](https://skillicons.dev/icons?i=heroku,azure,aws)](https://skillicons.dev)
 - Database <br>
-  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma&theme=light)](https://skillicons.dev)
+  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 - Tools <br>
-  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,express,fastapi,figma&theme=light)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,express,fastapi)](https://skillicons.dev)
 
 ## Projects
 
