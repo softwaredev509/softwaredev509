@@ -5,10 +5,15 @@
 Hey there! I'm Jeff Voltaire, a passionate software engineer who loves building cool stuff with code.I'm always up for a coding adventure and .
 
 ## Skills
+- Front-End
 - [![Front-End](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,figma&theme=light)](https://skillicons.dev)
+- Back-End
 - [![Back-End](https://skillicons.dev/icons?i=py,django,flask,js,nodejs,express,fastapi,figma&theme=light)](https://skillicons.dev)
+- CLoud
 - [![Cloud](https://skillicons.dev/icons?i=heroku,azure,aws,figma&theme=light)](https://skillicons.dev)
+- Database
 - [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma&theme=light)](https://skillicons.dev)
+- Tools
 - [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,express,fastapi,figma&theme=light)](https://skillicons.dev)
 
 ## Projects
