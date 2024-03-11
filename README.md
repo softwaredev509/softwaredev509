@@ -2,7 +2,7 @@
 
 ## About Me
 Hello 👋 <br>
-Hey there! I'm Jeff Voltaire, a passionate software engineer who loves building cool stuff with code.<br>
+Hey there! I'm Jeff Voltaire, a software engineer who loves building cool stuff with code.<br>
 I'm always up for a coding adventure and research.<br>
 
 🗃️ Working on multiple frontend and backend project using python and javascript<br>
