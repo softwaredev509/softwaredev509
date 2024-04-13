@@ -35,7 +35,7 @@ Let's code something awesome together! 🚀✨
 
 Here are some of the projects I've worked on:
 
-1. **[CoolProject](https://github.com/yourusername/coolproject)** - A fun and interactive web app that does something amazing!
+1. **[TeamHost](https://github.com/softwaredev509/teamhosts)** - A fun and interactive website for gamers.
 2. **[AwesomeTool](https://github.com/yourusername/awesometool)** - A handy CLI tool that makes life easier for developers.
 3. **[NeatAlgorithm](https://github.com/yourusername/neatalgorithm)** - An efficient algorithm implementation library for solving complex problems.
 
