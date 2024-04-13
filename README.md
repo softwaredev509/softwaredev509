@@ -36,8 +36,7 @@ Let's code something awesome together! 🚀✨
 Here are some of the projects I've worked on:
 
 1. **[TeamHost](https://softwaredev509.github.io/teamhosts/)** - A fun and interactive website for gamers.
-2. **[AwesomeTool](https://github.com/yourusername/awesometool)** - A handy CLI tool that makes life easier for developers.
-3. **[NeatAlgorithm](https://github.com/yourusername/neatalgorithm)** - An efficient algorithm implementation library for solving complex problems.
+2. **[Virtual Assistant](https://softwaredev509.github.io/implant/)** - A websites that makes life easier for Bussines.
 
 Feel free to check them out and give them a star if you like what you see!
 
