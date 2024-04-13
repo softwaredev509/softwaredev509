@@ -14,8 +14,8 @@ I'm always open to new opportunities, collaborations, or just a friendly chat! Y
 
 - Email: [softwaredev509@gmail.com](mailto:softwaredev509@gmail.com)
 - Twitter: [@voltairejeff898](https://twitter.com/voltairejeff898)
-- Patreon: [softwaredev509@gmail.com](https://patreon.com/softwaredev509)
-- Buy Me a Coffee: [@voltairejeff898](https://www.buymeacoffee.com/softwaredev509)
+- Patreon: [patreon](https://patreon.com/softwaredev509)
+- Buy Me a Coffee: [A Coffee](https://www.buymeacoffee.com/softwaredev509)
 
 Let's code something awesome together! 🚀✨
 
